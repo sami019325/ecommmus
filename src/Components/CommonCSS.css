@@ -1,0 +1,14 @@
+.moving-color {
+    color: #c2410c;
+    animation: changeColor 2s linear infinite;
+}
+
+@keyframes changeColor {
+    from {
+        color: #c2410c;
+    }
+
+    to {
+        color: #d015f1;
+    }
+}
