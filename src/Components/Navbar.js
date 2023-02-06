@@ -5,9 +5,10 @@ import './../Components/CommonCSS.css'
 
 const Navbar = () => {
     const [isNavTrue, setIsNavTrue] = useState(false)
+    const [WhichBtnActive, setWhichBtnActive] = useState(0)
     const { user } = useContext(SharedContext)
     return (
-        <div className="bg-base-100 flex justify-between w-12/12 p-2">
+        <div className="bg-base-100 flex justify-between w-full p-2 fixed">
             {/* dropdown-menu for mobile devices */}
             <div className="dropdown w-36  md:hidden">
                 <div className='flex '>
@@ -25,9 +26,9 @@ const Navbar = () => {
                 <Link to='/' className="btn btn-ghost normal-case text-xl font-bold">Econs</Link>
             </div>
             <div className='hidden md:flex gap-3 items-center justify-center font-bold'>
-                <Link to='/'>Home</Link>
-                <Link to='/order'>Order</Link>
-                <Link to='/'>Card</Link>
+                <Link onClick={() => setWhichBtnActive(1)} className={`${WhichBtnActive === 1 ? 'border-2 border-zinc-900' : 'border-2'} btn btn-ghost`} to='/'>Home</Link>
+                <Link onClick={() => setWhichBtnActive(2)} className={`${WhichBtnActive === 2 ? 'border-2 border-zinc-900' : 'border-2'} btn btn-ghost`} to='/order'>Order</Link>
+                <Link onClick={() => setWhichBtnActive(3)} className={`${WhichBtnActive === 3 ? 'border-2 border-zinc-900' : 'border-2'} btn btn-ghost`} to='/'>Card</Link>
             </div>
             <div className="flex justify-evenly items-center ">
                 <button className="btn btn-ghost btn-circle">
@@ -50,7 +51,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                         :
-                        <Link to='login' className='font-bold moving-color px-5'>LogIn</Link>
+                        <Link onClick={() => setWhichBtnActive(0)} to='login' className='font-bold moving-color px-5'>LogIn</Link>
                 }
             </div>
         </div>
