@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Hatil_0_0.jpg",
+        "type": "table",
+        "name": "Explore high quality products that will make yous house house",
+        "details": "Original ",
+        "price": 200
+    },
+    {
+        "id": 1,
+        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Bed-Hatil_1.jpg",
+        "type": "table",
+        "name": "Your sense of comfort, redefined",
+        "details": "Original ",
+        "price": 200
+    },
+    {
+        "id": 1,
+        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Dining-Hatil_1.jpg",
+        "type": "table",
+        "name": "The true delight for your dining space",
+        "details": "Original ",
+        "price": 200
+    }
+]

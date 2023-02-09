@@ -35,9 +35,10 @@ const Card = () => {
                                 <div className="card-body">
                                     <h2 className="card-title">{p.name}</h2>
                                     <p>{p.details}</p>
+                                    <p className='font-bold'>{p.price + ' $'}</p>
                                     <div className="card-actions justify-end">
-                                        <button className="btn btn-primary">SEE DETAILS</button>
-                                        <button className={` btn rounded-full`} onClick={notify}><FaBookmark></FaBookmark></button>
+                                        <button className="btn btn-ghost">SEE DETAILS</button>
+                                        <button className={` btn btn-ghost rounded-full`} onClick={notify}><FaBookmark></FaBookmark></button>
                                     </div>
                                 </div>
                             </div>

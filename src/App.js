@@ -5,6 +5,9 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from './Pages/HomePage/Home';
 import LogIn from './Pages/LogIn.js/LogIn';
 import Order from './Pages/Order/Order';
+import Card from './Components/Product';
+import Saved from './Pages/Saved/Saved';
+import Nopage from './Pages/HomePage/Component/Nopage';
 
 function App() {
   const router = createBrowserRouter([
@@ -13,7 +16,8 @@ function App() {
         { path: '/', element: <Home /> },
         { path: '/login', element: <LogIn /> },
         { path: '/order', element: <Order /> },
-        { path: '*', element: <div>404</div> },
+        { path: '/saved', element: <Saved /> },
+        { path: '*', element: <Nopage /> },
       ]
     },
   ])

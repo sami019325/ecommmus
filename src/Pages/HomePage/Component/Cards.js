@@ -12,7 +12,7 @@ const Cards = () => {
         { img: moneyLogo, title: 'Money Back', description: `We offer money back guarantee`, bg: 'bg-violet-300' },
     ]
     return (
-        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 m-auto md:gap-3 md:my-5 md:w-10/12'>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 m-auto md:gap-3 md:my-5 md:w-11/12'>
             {
                 cardData.map(card => <div className={`${card.bg} flex gap-2 items-center justify-center md:rounded-md p-3`}>
                     <div className='w-4/12'><img className='w-12 h-12' src={card.img} alt="" srcset="" /></div>
