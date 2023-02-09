@@ -27,21 +27,23 @@ const Card = () => {
                     pauseOnHover
                     theme="dark"
                 />
-
-                {
-                    product.map(p => <div className='w-11/12 m-auto my-3 sticky top-20 -z-50'>
-                        <div className="card lg:card-side bg-base-100 shadow-xl">
-                            <figure><img src="https://hatil.com/sites/default/files/Best-Furniture-Hatil_0_0.jpg" alt="Album" /></figure>
-                            <div className="card-body">
-                                <h2 className="card-title">New album is released!</h2>
-                                <p>Click the button to listen on Spotiwhy app.</p>
-                                <div className="card-actions justify-end">
-                                    <button className="btn btn-ghost">See MORE</button>
+                <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 -z-50'>
+                    {
+                        product.map(p => <div className='w-11/12 m-auto my-3'>
+                            <div className="card bg-base-100 shadow-xl">
+                                <figure><img src={p.img1} alt="product" className='image-full' /></figure>
+                                <div className="card-body">
+                                    <h2 className="card-title">{p.name}</h2>
+                                    <p>{p.details}</p>
+                                    <div className="card-actions justify-end">
+                                        <button className="btn btn-primary">SEE DETAILS</button>
+                                        <button className={` btn rounded-full`} onClick={notify}><FaBookmark></FaBookmark></button>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>)
-                }
+                        </div>)
+                    }
+                </div>
             </div>
         </div>
     );
