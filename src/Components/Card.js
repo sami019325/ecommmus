@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { FaBookmark } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const Card = () => {
     const [product, setProduct,] = useState([])
     useEffect(() => {
-        fetch('Resource.json')
+        fetch('http://localhost:5000/products')
             .then(res => res.json())
             .then(data => console.log(data) + setProduct(data))
     }, [])
@@ -37,7 +38,7 @@ const Card = () => {
                                     <p>{p.type}</p>
                                     <p className='font-bold'>{p.price + ' $'}</p>
                                     <div className="card-actions justify-end">
-                                        <button className="btn btn-ghost">SEE DETAILS</button>
+                                        <Link to={`card/${p._id}`} className="btn btn-ghost">SEE DETAILS</Link>
                                         <button className={` btn btn-ghost rounded-full`} onClick={notify}><FaBookmark></FaBookmark></button>
                                     </div>
                                 </div>

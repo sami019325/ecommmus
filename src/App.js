@@ -8,6 +8,7 @@ import Order from './Pages/Order/Order';
 import Card from './Components/Product';
 import Saved from './Pages/Saved/Saved';
 import Nopage from './Pages/HomePage/Component/Nopage';
+import DetailedCard from './Pages/DetailedCard/DetailedCard';
 
 function App() {
   const router = createBrowserRouter([
@@ -17,6 +18,7 @@ function App() {
         { path: '/login', element: <LogIn /> },
         { path: '/order', element: <Order /> },
         { path: '/saved', element: <Saved /> },
+        { path: '/order/card/:id', element: <DetailedCard /> },
         { path: '*', element: <Nopage /> },
       ]
     },

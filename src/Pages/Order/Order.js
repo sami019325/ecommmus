@@ -8,7 +8,7 @@ const Order = () => {
             <OrderCarrosel></OrderCarrosel>
             <div className='mt-20 w-12/12 flex items-center justify-center gap-0'>
                 <input type="text" placeholder="Search product" className="input input-bordered input-primary w-full max-w-xs" />
-                <button className='btn'>Search</button>
+                <button className='btn' id='search'>Search</button>
             </div>
             <hr className='hr my-5' />
             <div className='-z-50'>
