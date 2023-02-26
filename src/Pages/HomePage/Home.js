@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <Carosel></Carosel>
-            <div className='mt-40'>
+            <div className='md:mt-40'>
                 <Cards></Cards>
             </div>
             <div className='my-48'>

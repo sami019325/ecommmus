@@ -3,7 +3,7 @@ import React from 'react';
 const OrderCarrosel = () => {
     return (
         <div>
-            <div className="carousel rounded-box h-80 w-10/12 m-auto">
+            <div className="carousel h-96 w-12/12 m-auto">
                 <div className="carousel-item">
                     <img className='w-full h-full' src="https://hatil.com/sites/default/files/Galaxy-118%20.jpg" alt="Burger" />
                 </div>

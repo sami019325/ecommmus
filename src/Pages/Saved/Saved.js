@@ -2,8 +2,8 @@ import React from 'react';
 
 const Saved = () => {
     return (
-        <div className='pt-20 flex'>
-            <div className="overflow-x-auto w-6/12">
+        <div className='pt-20 block lg:flex w-12/12'>
+            <div className="overflow-x-auto w-full lg:w-8/12">
                 <table className="table w-full">
                     {/* <!-- head --> */}
                     <thead>
@@ -15,7 +15,6 @@ const Saved = () => {
                             </th>
                             <th>Name</th>
                             <th>Job</th>
-                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -49,8 +48,11 @@ const Saved = () => {
                     </tbody>
                 </table>
             </div>
-            <div className='bg-gray-700 w-6/12'>
-                c
+            <div className='bg-gray-200 w-full lg:w-4/12 flex flex-col items-center justify-center'>
+                <h1 className=' text-4xl'>Order now</h1>
+                <p className=' text-2xl'>Total: <span>00</span></p>
+                <br />
+                <button className='btn btn-primary'>Place order</button>
             </div>
         </div>
     );

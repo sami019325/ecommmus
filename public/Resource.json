@@ -1,42 +1,137 @@
 [
     {
-        "id": 1,
-        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Dining-Hatil_1.jpg",
-        "img2": "",
-        "img3": "",
-        "type": "table",
-        "name": "original wooden box",
+        "img1": "https://hatil.com/sites/default/files/product_set_images/638048063784736342_%200-%20Screenshot23-11-2022-13-06-14.jpg",
+        "img2": "https://hatil.com/sites/default/files/product_set_images/638048063784892617_%200-%20Screenshot23-11-2022-13-06-40.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/638048063784892617_%200-%20Screenshot23-11-2022-13-07-04.jpg",
+        "type": "sofa",
+        "name": "Sofa Wallace",
+        "details": " Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish",
+        "price": 200
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Pinocchio-142.jpg",
+        "img2": "https://hatil.com/sites/default/files/Pinocchio-142.png",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637531313556556880_Pinocchio-142-0-0-NaN-1_5.jpg",
+        "type": "chair",
+        "name": "Swivel Chair Pinocchio",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish ",
+        "price": 150
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Jovian-146%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Jovian-146.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637696312954552937_0%20-Jovian-146-HPL-507-146-10-1-88_11.jpg",
+        "type": "chair",
+        "name": "Swivel Chair Jovian",
         "details": "Original ",
         "price": 200
     },
     {
-        "id": 1,
-        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Dining-Hatil_1.jpg",
-        "img2": "",
-        "img3": "",
-        "type": "table",
-        "name": "original wooden box",
-        "details": "Original ",
-        "price": 200
+        "img1": "https://hatil.com/sites/default/files/Bagpipes-133%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/product_set_images/637531263593380148_Bagpipes-133-0-0-NaN-1_2.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637531263593535606_Bagpipes-133-0-0-NaN-1_5.jpg",
+        "type": "chair",
+        "name": "Swivel Chair Bagpipes",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 130
     },
     {
-        "id": 1,
-        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Dining-Hatil_1.jpg",
-        "img2": "",
-        "img3": "",
-        "type": "table",
-        "name": "original wooden box",
-        "details": "Original ",
-        "price": 200
+        "img1": "https://hatil.com/sites/default/files/Sweetheart-177%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/product_set_images/637785406636682883_1.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637785406636839139_2.jpg",
+        "type": "bed",
+        "name": "Bed Sweetheart",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 390
     },
     {
-        "id": 1,
-        "img1": "https://hatil.com/sites/default/files/Best-Furniture-Dining-Hatil_1.jpg",
-        "img2": "",
-        "img3": "",
+        "img1": "https://hatil.com/sites/default/files/Nemesis-197.jpg",
+        "img2": "https://hatil.com/sites/default/files/product_set_images/Nemesis-197-2_638034351848034053_nemesis%202.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/Nemesis-197-2_638034351848190267_nemesis%201.jpg",
+        "type": "bed",
+        "name": "Bed Nemesis",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 300
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Illusion-144%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/product_set_images/637784939806887007_Illusion-144%20-1.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637784939806887007_Illusion-144%20-2.jpg",
+        "type": "bed",
+        "name": "Bed Illusion",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 110
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Fusion-302-bed%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Fusion-302_0.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/638054855343852686_0%20-Fusion-302-HTL-201-302-10-3_3.jpg",
+        "type": "sofa",
+        "name": "Sofa Fusion",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 220
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Pigeon-167%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Pigeon-167.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637975380489660589_637791054799929667_2.jpg",
         "type": "table",
-        "name": "original wooden box",
-        "details": "Original ",
-        "price": 200
+        "name": "Center Table Pigeon",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 250
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Pristina-173%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Pristina-173.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637975368580896217_Pristina-173%204.jpg",
+        "type": "table",
+        "name": "Center Table Pristina",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 100
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Seasame-101%20and%20Yogurt-101%20%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Seasame-101%20and%20Yogurt-101%20.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/Seasame-101-and-Yogurt-101_637826378987816865_Seasame-101%20and%20Yogurt-101%20-dinning%20set%202.jpg",
+        "type": "dining",
+        "name": "Dining Seasame",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 350
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/2.png",
+        "img2": "https://hatil.com/sites/default/files/Juvenile-198%20Bed%20Sofa%20HATIL%20modern%20bedroom%20online%20buy%20Bangladesh%20best%20price.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/Juvenile-198-0-0-1_637649686557704557_Juvenile-198-0-0-1_04.jpg",
+        "type": "mattress",
+        "name": "Bedroom Juvenile",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 220
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/Dennis-101%20.jpg",
+        "img2": "https://hatil.com/sites/default/files/Dennis-101_0.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/637975398971688377_637803566155183092_Dennis-101-2.jpg",
+        "type": "table",
+        "name": "Reading Table Dennis",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 330
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/6.jpg",
+        "img2": "https://hatil.com/sites/default/files/1_3.jpg",
+        "img3": "https://hatil.com/sites/default/files/product_set_images/Falkner-118-and-Barberry-118-4-Chair_637826379255854106_Falkner-118%20and%20Barberry-118%20-dinning%20set%20-1.jpg",
+        "type": "dining",
+        "name": "Dining Falkner",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 300
+    },
+    {
+        "img1": "https://hatil.com/sites/default/files/HCL-102-112-OAK-1-66%20%5BMinimum%20width%2033%20inches%5D_0.png",
+        "img2": "https://hatil.com/sites/default/files/HCL-102-120-OAK-1-66_0.png",
+        "img3": "https://hatil.com/sites/default/files/HCL-102-121-OAK-1-88_0.png",
+        "type": "door",
+        "name": "Solid Wooden Door",
+        "details": "Made from Kiln-dried imported Beech veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish  ",
+        "price": 400
     }
 ]

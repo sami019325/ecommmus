@@ -27,14 +27,14 @@ const Card = () => {
                     pauseOnHover
                     theme="dark"
                 />
-                <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 -z-50'>
+                <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4'>
                     {
-                        product.map(p => <div className='w-11/12 m-auto my-3'>
+                        product.map(p => <div className='w-11/12 m-auto my-3 '>
                             <div className="card bg-base-100 shadow-xl">
-                                <figure><img src={p.img1} alt="product" className='image-full' /></figure>
-                                <div className="card-body">
+                                <figure><img src={p.img1} alt="product" className='image-full h-36' /></figure>
+                                <div className="card-body h-52">
                                     <h2 className="card-title">{p.name}</h2>
-                                    <p>{p.details}</p>
+                                    <p>{p.type}</p>
                                     <p className='font-bold'>{p.price + ' $'}</p>
                                     <div className="card-actions justify-end">
                                         <button className="btn btn-ghost">SEE DETAILS</button>

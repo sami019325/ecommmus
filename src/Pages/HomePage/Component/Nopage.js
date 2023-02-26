@@ -1,5 +1,5 @@
 import React from 'react';
-import nopage from './../../../resources/nopage-page-free-vector.webp'
+import nopage from './../../../resources/image-removebg-preview.png'
 const Nopage = () => {
     return (
         <div className='pt-40 flex items-center justify-center'>
